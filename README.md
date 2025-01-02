@@ -2,6 +2,9 @@
 
 A simple task management app built with React that allows users to add, delete, and persist tasks even after refreshing the page. The app utilizes `localStorage` to store tasks locally in the browser, ensuring they remain on the list even after the page is reloaded.
 
+## Visit here
+https://task-managers-jyoti.netlify.app
+
 ## Features:
 - Add tasks to the list.
 - Delete tasks from the list.
